@@ -1,0 +1,23 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Coffee Machine (Java)/*
+!/Coffee Machine (Java)/task/
+/Coffee Machine (Java)/task/*
+!/Coffee Machine (Java)/task/src
+
+# Project exclude paths
+/Topics/Instance methods/Complex numbers/out/
+/Topics/Instance methods/Complex numbers/out/production/classes/
+/Topics/Instance methods/Simulating a clock/out/
+/Topics/Instance methods/Simulating a clock/out/production/classes/
+/Topics/The keyword super/Employees/out/
